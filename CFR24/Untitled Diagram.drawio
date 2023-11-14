@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T01:28:29.032Z" agent="5.0 (Windows)" etag="Vq1ijwHqWcrQ_zPD_EDF" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T01:37:17.862Z" agent="5.0 (Windows)" etag="NF-0y1z_Ui3M-EuH6hxz" version="20.6.0" type="github">
   <diagram id="9Iz2JitJ7VRoUgazTb_r" name="Page-1">
     <mxGraphModel dx="717" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,10 +29,10 @@
           <mxGeometry x="154.38" y="120" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONevh3QhUTRrqRP_tkAR-8" value="&lt;div&gt;APPS 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="274.38" y="120" width="85" height="60" as="geometry" />
+          <mxGeometry x="269" y="120" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONevh3QhUTRrqRP_tkAR-9" value="Brake Pedal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="384.38" y="120" width="85" height="60" as="geometry" />
+          <mxGeometry x="383" y="120" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONevh3QhUTRrqRP_tkAR-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="53.75" y="210" width="266.25" height="250" as="geometry" />
@@ -68,10 +68,10 @@
           <mxGeometry x="548.75" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONevh3QhUTRrqRP_tkAR-27" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="126.87" y="535" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONevh3QhUTRrqRP_tkAR-28" value="&lt;div&gt;DAQ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="313.12" y="535" width="120" height="60" as="geometry" />
+          <mxGeometry x="247" y="535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONevh3QhUTRrqRP_tkAR-29" value="&lt;div&gt;Relay&lt;/div&gt;&lt;div&gt;Control&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="60" y="320" width="120" height="60" as="geometry" />
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ONevh3QhUTRrqRP_tkAR-40" value="GLV Distribution" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="485.62" y="535" width="120" height="60" as="geometry" />
+          <mxGeometry x="383" y="535" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ONevh3QhUTRrqRP_tkAR-45" value="High Voltage" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="513.75" y="210" width="185" height="30" as="geometry" />
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="ONevh3QhUTRrqRP_tkAR-49" value="Interlocks" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="188.75" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q0A8HcBJODPzJG3vyRWo-1" value="Lights" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="535" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
