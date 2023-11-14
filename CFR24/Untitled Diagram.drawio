@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T02:15:36.798Z" agent="5.0 (Windows)" etag="8M1FHygA-zPmpHMI-IF1" version="20.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-14T02:16:41.989Z" agent="5.0 (Windows)" etag="d_mfJjbE7JKmVc6HtElg" version="20.6.0" type="github" pages="3">
   <diagram id="9Iz2JitJ7VRoUgazTb_r" name="High Level">
     <mxGraphModel dx="2188" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -489,13 +489,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="98ezOrbXE7MmnYX9J8uj-27" value="MCU" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="518" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="365.25" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98ezOrbXE7MmnYX9J8uj-28" value="Cell Temp Sensing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="670" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98ezOrbXE7MmnYX9J8uj-29" value="Voltage Sensing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="365" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="518" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="98ezOrbXE7MmnYX9J8uj-30" value="Relative Humidity" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="213" y="550" width="120" height="60" as="geometry" />
